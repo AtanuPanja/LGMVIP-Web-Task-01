@@ -28,4 +28,4 @@ These are screenshots of how it may look like in a smartphone.
 
 
 ## Additional Features
-The tasks persist on reload, is opened again from the same browser, because the tasks are stored in localStorage.
+The tasks persist on reload, when the website is opened again from the same browser.
